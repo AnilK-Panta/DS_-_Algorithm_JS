@@ -1,4 +1,4 @@
-//check the palindrome with for the case sensetive string
+//check the palindrome with for the case insensetive string
 
 function palindrome(str){
     str=str.toLowerCase()
