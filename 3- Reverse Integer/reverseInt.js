@@ -3,6 +3,10 @@
 //step2: Reverse the string
 //step3: Convert String to integer
 
+
+// var val = document.getElementById("num").target.value()
+
+
 function reverseInteger(num){
     console.log(num)
 
@@ -22,4 +26,4 @@ function reverseInteger(num){
 
 }
 
-reverseInteger(-100)
+reverseInteger(123456789)
