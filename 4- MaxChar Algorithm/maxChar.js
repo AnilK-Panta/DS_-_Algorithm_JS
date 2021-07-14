@@ -14,4 +14,4 @@ const maxChar=(str)=>{
     console.log(maxChar)
 }
 
-maxChar("leeoll")
+maxChar("I loveeeee noodles")
